@@ -1,5 +1,5 @@
-Short Lnk
-by Kitson Broadhurst
+# Short Lnk
+## by Kitson Broadhurst
 
 This is a Short link application using Meteor an React.
 
